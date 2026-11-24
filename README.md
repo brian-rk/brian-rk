@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:0f3d4c,100:0e7490&height=230&section=header&text=Brian%20Richard%20Kimwaga&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Computer%20Engineering%20and%20IT%20%C2%B7%20Dar%20es%20Salaam&descSize=17&descColor=22d3ee&descAlignY=60" alt="Brian Richard Kimwaga" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=600&lines=Web+developer;Network+and+security+student;Looking+for+an+internship+or+first+role" alt="Web developer, network and security student" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=600&lines=Web+developer;Data+Scientist;System+Designer;Network+and+security+student;Tech+Enthusiast;Looking+for+an+internship+or+first+role" alt="Web developer, Data Scientist, System Designer, Tech Enthusiast" />
 
 <br/>
 
