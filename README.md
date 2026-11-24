@@ -24,10 +24,14 @@ I'm looking for an internship or a first full-time role.
 
 ## Engineering focus
 
-My degree is in computer engineering, so I'm drawn to the layer under the app: how networks carry traffic, how systems are secured, and how hardware talks to software.
+My degree is in computer engineering, so I care about how systems are built end to end: from software design and machine learning down to networks, security and hardware.
 
 | Area | What I study and build |
 |---|---|
+| Software engineering | Building and maintaining web and mobile applications |
+| AI and machine learning | Using machine learning to predict outcomes, as in JusticeFlow |
+| System design | Planning how components, data and services fit together |
+| Architecture | Structuring systems so they stay maintainable as they grow |
 | Network systems | How devices connect, route and fail |
 | Cybersecurity | Securing systems and finding weaknesses |
 | Telecommunications | How data moves across networks |
