@@ -1,108 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Brian%20Richard%20Kimwaga&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20%26%20IT%20%7C%20Web%20Developer%20%7C%20Dar%20es%20Salaam%2C%20Tanzania&descSize=16&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:0f3d4c,100:0e7490&height=230&section=header&text=Brian%20Richard%20Kimwaga&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Computer%20Engineering%20and%20IT%20%C2%B7%20Dar%20es%20Salaam&descSize=17&descColor=22d3ee&descAlignY=60" alt="Brian Richard Kimwaga" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+web+products+for+East+Africa;Full-stack+with+React+%26+Next.js;Networks+%7C+Cybersecurity+%7C+Embedded+Systems;Open+to+internships+%26+entry-level+roles" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=600&lines=Web+developer;Network+and+security+student;Looking+for+an+internship+or+first+role" alt="Web developer, network and security student" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=brian-rk&label=Profile%20views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/brian-rk?style=flat-square&logo=github&color=2c5364)
-![Status](https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square)
+<a href="mailto:kimwagabrian@gmail.com"><img src="https://img.shields.io/badge/Email-0e7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/brian-kimwaga"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/brian-rk?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About
 
-I'm a final-year **Computer Engineering and Information Technology** student at the **University of Dar es Salaam (UDSM)**, College of Information and Communication Technologies. My coursework covers network systems, cybersecurity and telecommunications, and I build web products on the side, mostly aimed at East African markets.
+I'm a final-year Computer Engineering and Information Technology student at the University of Dar es Salaam (UDSM), in the College of Information and Communication Technologies. My courses cover network systems, cybersecurity and telecommunications. Outside class I build web products, mostly for people in East Africa.
 
-- 🎓 Final-year student at UDSM
-- 🔭 Final year project: an **Intelligent Predictive Network Device Failure Management System**
-- 🌍 Interested in building tech products that solve real problems in Tanzania and beyond
-- 💼 **Looking for an internship and a full-time role**
+I'm looking for an internship or a first full-time role. My final year project is a system that predicts network device failures before they happen.
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-**Web development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&perline=8" alt="web stack" />
-</p>
-
-**Languages, tools and systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,linux,arduino,figma,vscode,postman&perline=8" alt="tools" />
-</p>
-
-**Core areas:** Network Systems · Cybersecurity · Telecommunications · Embedded Systems · Business Analysis
-
----
-
-## 🚀 Featured Projects
+## Stack
 
 <div align="center">
 
-<a href="https://github.com/brian-rk/justiceflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=justiceflow&theme=tokyonight&hide_border=true" alt="justiceflow" />
-</a>
-<a href="https://github.com/brian-rk/CeleBrate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=CeleBrate&theme=tokyonight&hide_border=true" alt="CeleBrate" />
-</a>
-
-<a href="https://github.com/brian-rk/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
-</a>
-<a href="https://github.com/brian-rk/Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=Calculator&theme=tokyonight&hide_border=true" alt="Calculator" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&theme=dark&perline=8" alt="Web stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=py,git,github,linux,arduino,figma,vscode,postman&theme=dark&perline=8" alt="Languages and tools" />
 
 </div>
 
-| Project | Description | Stack |
+Also: network systems, cybersecurity, telecommunications, embedded systems and business analysis.
+
+<br/>
+
+## Final year project
+
+**Intelligent Predictive Network Device Failure Management System.** It watches network devices and flags the ones likely to fail, so they can be fixed before users notice.
+
+~~~mermaid
+flowchart LR
+  A[Network devices] --> B[Data collector]
+  B --> C[Prediction model]
+  C --> D[Failure alerts]
+~~~
+
+<br/>
+
+## Projects
+
+<div align="center">
+
+<a href="https://github.com/brian-rk/justiceflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=justiceflow&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=164e63" alt="justiceflow" /></a>
+<a href="https://github.com/brian-rk/CeleBrate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brian-rk&repo=CeleBrate&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=164e63" alt="CeleBrate" /></a>
+
+</div>
+
+| Project | What it does | Built with |
 |---|---|---|
-| **JusticeFlow** | Case-management dashboard that uses ML to predict case outcomes and delays | TypeScript |
-| **CeleBrate** | Web platform for managing ceremonies and invitations in Tanzania | TypeScript |
-| **Portfolio** | Personal portfolio website | JavaScript |
+| [JusticeFlow](https://github.com/brian-rk/justiceflow) | Case-management dashboard that uses ML to predict case outcomes and delays | TypeScript |
+| [CeleBrate](https://github.com/brian-rk/CeleBrate) | Web platform for managing ceremonies and invitations in Tanzania | TypeScript |
+| [Portfolio](https://github.com/brian-rk/portfolio) | My personal site | JavaScript |
+| [Calculator](https://github.com/brian-rk/Calculator) | A simple calculator | TypeScript |
 
----
+<br/>
 
-## 🧭 Experience
+## Experience
 
-| Period | Role | Organisation |
+| When | What | Where |
 |---|---|---|
-| Aug 2026 – Present | Industrial Practical Training | e-Government Authority (eGA) – RIDC |
-| Jul 2025 | Industrial Practical Training | TERA Technologies & Engineering Ltd |
-| Jul 2024 | Industrial Practical Training | Tanzania Shipping Agencies Corporation (TASAC) |
+| Aug 2026 to now | Industrial practical training | e-Government Authority (eGA), RIDC |
+| Jul 2025 | Industrial practical training | TERA Technologies & Engineering Ltd |
+| Jul 2024 | Industrial practical training | Tanzania Shipping Agencies Corporation (TASAC) |
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brian-rk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-rk&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=brian-rk&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## GitHub activity
 
 <div align="center">
 
-<a href="mailto:kimwagabrian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/brian-kimwaga"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=brian-rk&show_icons=true&hide_border=false&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=164e63" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-rk&layout=compact&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1&border_color=164e63" alt="Top languages" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?
+<br/>
+
+## Contact
+
+The quickest way to reach me is email at [kimwagabrian@gmail.com](mailto:kimwagabrian@gmail.com), or on [LinkedIn](https://www.linkedin.com/in/brian-kimwaga).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,40:0f3d4c,100:0b1220&height=90&section=footer" alt="" />
