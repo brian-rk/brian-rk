@@ -16,36 +16,34 @@
 
 ## About
 
-I'm a final-year Computer Engineering and Information Technology student at the University of Dar es Salaam (UDSM), in the College of Information and Communication Technologies. My courses cover network systems, cybersecurity and telecommunications. Outside class I build web products, mostly for people in East Africa.
+I'm a final-year Computer Engineering and Information Technology student at the University of Dar es Salaam (UDSM), in the College of Information and Communication Technologies. Outside class I build web products, mostly for people in East Africa.
 
-I'm looking for an internship or a first full-time role. My final year project is a system that predicts network device failures before they happen.
+I'm looking for an internship or a first full-time role.
+
+<br/>
+
+## Engineering focus
+
+My degree is in computer engineering, so I'm drawn to the layer under the app: how networks carry traffic, how systems are secured, and how hardware talks to software.
+
+| Area | What I study and build |
+|---|---|
+| Network systems | How devices connect, route and fail |
+| Cybersecurity | Securing systems and finding weaknesses |
+| Telecommunications | How data moves across networks |
+| Embedded systems | Software that runs on hardware |
 
 <br/>
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind&theme=dark&perline=8" alt="Web stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=py,git,github,linux,arduino,figma,vscode,postman&theme=dark&perline=8" alt="Languages and tools" />
-
-</div>
-
-Also: network systems, cybersecurity, telecommunications, embedded systems and business analysis.
-
-<br/>
-
-## Final year project
-
-**Intelligent Predictive Network Device Failure Management System.** It watches network devices and flags the ones likely to fail, so they can be fixed before users notice.
-
-~~~mermaid
-flowchart LR
-  A[Network devices] --> B[Data collector]
-  B --> C[Prediction model]
-  C --> D[Failure alerts]
-~~~
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Node.js, Express, Django" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" /> React Native |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,figma,vscode,postman&theme=dark" alt="Git, GitHub, Linux, Arduino, Figma, VS Code, Postman" /> |
 
 <br/>
 
@@ -64,16 +62,6 @@ flowchart LR
 | [CeleBrate](https://github.com/brian-rk/CeleBrate) | Web platform for managing ceremonies and invitations in Tanzania | TypeScript |
 | [Portfolio](https://github.com/brian-rk/portfolio) | My personal site | JavaScript |
 | [Calculator](https://github.com/brian-rk/Calculator) | A simple calculator | TypeScript |
-
-<br/>
-
-## Experience
-
-| When | What | Where |
-|---|---|---|
-| Aug 2026 to now | Industrial practical training | e-Government Authority (eGA), RIDC |
-| Jul 2025 | Industrial practical training | TERA Technologies & Engineering Ltd |
-| Jul 2024 | Industrial practical training | Tanzania Shipping Agencies Corporation (TASAC) |
 
 <br/>
 
