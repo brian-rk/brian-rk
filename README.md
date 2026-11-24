@@ -21,7 +21,6 @@
 I'm a final-year **Computer Engineering and Information Technology** student at the **University of Dar es Salaam (UDSM)**, College of Information and Communication Technologies. My coursework covers network systems, cybersecurity and telecommunications, and I build web products on the side, mostly aimed at East African markets.
 
 - 🎓 Final-year student at UDSM
-- 🏛️ Industrial practical training at the **e-Government Authority (eGA)**
 - 🔭 Final year project: an **Intelligent Predictive Network Device Failure Management System**
 - 🌍 Interested in building tech products that solve real problems in Tanzania and beyond
 - 💼 **Looking for an internship and a full-time role**
